@@ -1,5 +1,5 @@
 # csc322-Project3
-Cache simulator
+#Cache simulator
 This is your cache lab. It consists of implementing a cache simulator given various parameters, and then watching it perform under different circumstances. To make things simple, you'll only be dealing with reads.
 
 When your simulator starts, it should take from stdin (so no files are opened/closed/used in the project code) input in the following format:
